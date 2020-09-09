@@ -1,0 +1,23 @@
+{
+    "cSpell.language": "en,pt,en-US,en-GB,pt-BR",
+    "cSpell.enableFiletypes": [
+        "bat",
+        "git-rebase",
+        "ignore",
+        "ini",
+        "log",
+        "lua",
+        "makefile",
+        "powershell",
+        "properties",
+        "r",
+        "ruby",
+        "search-result",
+        "shellscript",
+        "sql",
+        "swift",
+        "vb",
+        "xml",
+        "xsl"
+    ]
+}
